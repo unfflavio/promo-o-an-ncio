@@ -18,6 +18,10 @@ p{
   color:#111111;
 }
 
+img{
+  width: 400px;
+}
+
 .contador{
 font-size: 36px;
   color:#08f708;
